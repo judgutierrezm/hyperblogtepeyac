@@ -2,15 +2,8 @@ body
 {
     color: #333;
     text-align: left;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: arial;
     font: optional 16px;
-}
-#cabecera
-{
-    background: #33a;
-    color: white;
-    margin: 0;
-    padding: o.5em;
 }
 #container
 {
@@ -23,8 +16,4 @@ body
 #container
 {
     font-size: 20px;
-}
-#post
-{
-
 }

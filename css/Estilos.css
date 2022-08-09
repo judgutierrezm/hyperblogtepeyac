@@ -1,7 +1,30 @@
 body 
 {
-    color: fuchsia;
-    text-align: center;
-    font-family: arial;
+    color: #333;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font: optional 16px;
+}
+#cabecera
+{
+    background: #33a;
+    color: white;
+    margin: 0;
+    padding: o.5em;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+#container
+{
+    font-size: 20px;
+}
+#post
+{
 
 }

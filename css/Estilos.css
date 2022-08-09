@@ -1,0 +1,19 @@
+body 
+{
+    color: #333;
+    text-align: left;
+    font-family: arial;
+    font: optional 16px;
+}
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #ddd;
+    margin: 0 auto;
+}
+#container
+{
+    font-size: 20px;
+}

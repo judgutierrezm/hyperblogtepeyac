@@ -1,9 +1,15 @@
+head
+{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: optional 35px;
+}
 body 
 {
     color: rgb(109, 10, 10);
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
-    font: optional 16px;
+    font-size: optional 10px;
 }
 #container
 {
@@ -12,8 +18,4 @@ body
     text-align: left;
     border: 1px solid #ddd;
     margin: 0 auto;
-}
-#container
-{
-    font-size: 20px;
 }

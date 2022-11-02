@@ -1,2 +1,2 @@
 # hyperblogtepeyac
-Estaes la priera version de mi blog en GitHub
+Esta es la primera version de mi blog en GitHub
